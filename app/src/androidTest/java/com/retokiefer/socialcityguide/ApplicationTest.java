@@ -1,4 +1,4 @@
-package screenion.de.mysocialcity;
+package com.retokiefer.socialcityguide;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

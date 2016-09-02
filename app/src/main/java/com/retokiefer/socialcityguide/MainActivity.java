@@ -1,4 +1,4 @@
-package screenion.de.mysocialcity;
+package com.retokiefer.socialcityguide;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
@@ -8,6 +8,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.SeekBar;
+
 
 
 public class MainActivity extends ActionBarActivity {
